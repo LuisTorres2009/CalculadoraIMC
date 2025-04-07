@@ -5,7 +5,7 @@
 
 📝 **Descrição Geral**
 
-Este projeto consiste no desenvolvimento de um aplicativo mobile chamado Calculadora de IMC, criado utilizando React Native com suporte do Expo. O app permite que o usuário insira seu peso (em kg) e sua altura (em cm). Após o usuário fornecer esses dados, o app calcula seu IMC (Índice de Massa Corporal), a classificação de acordo com a OMS, o intervalo de peso ideal com base na altura fornecida e depois exibe essas informações. 
+Este projeto consiste no desenvolvimento de um aplicativo mobile chamado Calculadora de IMC, criado utilizando React Native com suporte do Expo. O app permite que o usuário insira seu peso (em kg) e sua altura (em cm). Após o usuário fornecer esses dados, o app calcula seu IMC (Índice de Massa Corporal), a classificação de acordo com a OMS, o intervalo de peso ideal com base na altura fornecida e depois exibe os resultados. 
 
 
 ㅤ
