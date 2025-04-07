@@ -46,7 +46,7 @@ Requisitos:
 - Ter o Expo CLI instalado globalmente (npm install -g expo-cli)
 
 Instalação
-- git clone https://github.com/LuisTorres2009/Calculadora-IMC.git
-- cd Calculadora-IMC
+- git clone https://github.com/LuisTorres2009/CalculadoraIMC.git
+- cd CalculadoraIMC
 - npm install
 - npx expo start --tunnel
