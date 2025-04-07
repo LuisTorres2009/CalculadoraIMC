@@ -51,7 +51,7 @@ O aplicativo Calculadora de IMC foi desenvolvido utilizando React Native com o s
 
 **Resumo do fluxo:**
 
-O usuário digita seu peso e altura → Pressiona o botão de cálculo → O app calcula o IMC → Classifica o resultado → Mostra o intervalo de peso ideal → Exibe tudo isso na tela de forma amigável e clara.
+O usuário digita seu peso e altura → Pressiona o botão de cálculo → O app calcula o IMC → Classifica o resultado → Mostra o intervalo de peso ideal → Exibe tudo isso na tela de forma amigável e clara. 
 
 
 ㅤ
