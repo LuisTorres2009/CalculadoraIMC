@@ -25,7 +25,7 @@ Este projeto consiste no desenvolvimento de um aplicativo mobile chamado Calcula
 
 ⚙️ **Funcionamento do Código da Calculadora de IMC**
 
-O aplicativo Calculadora de IMC foi desenvolvido utilizando React Native com o suporte do Expo. Seu funcionamento está dividido em componentes, organizando a lógica e a interface de forma clara e modular.
+O aplicativo Calculadora de IMC foi desenvolvido utilizando React Native com o suporte do Expo. Seu funcionamento está dividido em componentes, organizando a lógica e a interface de forma clara e modular. 
 
 
 1. **App.js**: Este é o ponto de entrada do aplicativo. Ele importa e exibe dois componentes principais: Title (responsável por mostrar o título do app) e FormIMC (que contém os campos de entrada e lógica de cálculo). Além disso, define uma imagem de fundo para melhorar a aparência visual da aplicação.
